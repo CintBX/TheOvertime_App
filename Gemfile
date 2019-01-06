@@ -36,3 +36,7 @@ gem 'bootstrap-sass', '~> 3.4'
 gem 'devise', '~> 4.5'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rubocop-rspec', '~> 1.30', '>= 1.30.1'
+gem 'gritter', '1.2.0'
+gem 'jquery'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'rails-ujs', '~> 0.1.0'
