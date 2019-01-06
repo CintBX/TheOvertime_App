@@ -16,6 +16,8 @@
 
 ## UI:
 - x Bootstrap -> formatting
+- Icons from Fontawesome
+- Update the styles for forms
 
 ## Refactors
 - x Create full_name method for users
