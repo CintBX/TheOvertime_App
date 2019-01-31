@@ -23,3 +23,4 @@
 ## Refactors
 - x Create full_name method for users
 - Refactor user association integration test in post_spec# TheOvertime_App
+- Refactor posts form for admin user with status
