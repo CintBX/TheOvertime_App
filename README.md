@@ -6,6 +6,7 @@
 - x Post -> date:date rationale:text
 - x User -> Devise
 - x AdminUser -> STI
+- AuditLog
 
 ## Features:
 - Approval Workflow
@@ -17,11 +18,8 @@
 
 ## UI:
 - x Bootstrap -> formatting
-- Icons from Fontawesome
+- x Icons from Glyphicons
 - x Update the styles for forms
 
 ## Refactors
-- x Create full_name method for users
-- Refactor user association integration test in post_spec# TheOvertime_App
-- Refactor posts form for admin user with status
-- Fix post_spec.rb:52 to have correct user reference, and not require update
+- x Refactor posts/_form for admin user with status
