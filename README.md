@@ -13,19 +13,15 @@
 - x SMS Sending -> link to approval or overtime input -> integrate with Heroku scheduler
 - x Administrate admin dashboard
 - x Block non-admin and guest users
-- Email summary to managers for approval
+- (pending) Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
-
-- Create audit log for each text message (pending)
-- Need to update end_date when confirmed
+- (pending) Create audit log for each text message
+- x Need to update end_date when confirmed
 - Need to update audit log status when an overtime item is rejected
-
 - x Home icon
-
 - Update buttons on employee homepage so they show on mobile
 - Update buttons to include time span
 - Update button sort order on employee homepage
-
 - Remove unnecessary nav bar buttons for managers
 - Fix admin dashboard bug
 - Implement Honeybadger for error reporting
