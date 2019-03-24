@@ -16,7 +16,7 @@
 - Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
 
-- Create audit log for each text message
+- Create audit log for each text message (pending)
 - Need to update end_date when confirmed
 - Need to update audit log status when an overtime item is rejected
 
